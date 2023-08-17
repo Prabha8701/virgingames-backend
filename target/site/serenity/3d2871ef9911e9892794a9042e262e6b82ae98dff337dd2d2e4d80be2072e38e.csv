@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Currency test","Validate Currency EUR","SUCCESS","2023-08-17T14:10:08.286+01:00[Europe/London]","0.0","5.15"
+"Currency test","Validate Currency GBP","SUCCESS","2023-08-17T14:10:13.530+01:00[Europe/London]","0.0","0.54"
+"Currency test","Validate Currency SEK","SUCCESS","2023-08-17T14:10:14.070+01:00[Europe/London]","0.0","0.1"
